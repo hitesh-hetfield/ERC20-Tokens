@@ -44,7 +44,7 @@ To deploy HetCoin, you will need an Ethereum development environment, such as Ha
    - `totalSupply_`: The initial supply of tokens (e.g., 1,000,000).
 
    Example constructor arguments:
-   _name: HetCoin _symbol: HET decimals: 18 totalSupply: 1000000
+   - `_name: HetCoin _symbol: HET decimals: 18 totalSupply: 1000000`
 
    
 4. Once deployed, the contract will mint the total supply of tokens to the deployer's address.
